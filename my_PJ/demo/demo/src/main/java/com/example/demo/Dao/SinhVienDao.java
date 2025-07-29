@@ -1,4 +1,4 @@
-package Dao;
+package com.example.demo.Dao;
 
 import com.example.demo.entity.SinhVien;
 

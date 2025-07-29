@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
-
 public class BookDelivery {
+    String titles;
+    Integer userID;
 }

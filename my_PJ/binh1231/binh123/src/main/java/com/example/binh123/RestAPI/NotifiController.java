@@ -1,19 +1,24 @@
-package com.example.binh123;
+package com.example.binh123.RestAPI;
 
 import com.example.binh123.Service.MesInterface;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class NotifiController {
-    private MesInterface email;
-   @Autowired
-   public NotifiController(MesInterface email) {
-       this.email=email;
-   }
+    private MesInterface service;
+
+    @Autowired
+    public NotifiController( MesInterface service) {
+        this.service = service;
+    }
+
+
     @GetMapping("/send-email")
     public String sendEmail() {
-        return this.email.sendMessage();
+        return this.service.sendMessage();
     }
+
 }

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c89d330b-3be8-4e45-902e-347e2c09d2f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../PJ/43/securityjpa/securityjpa/src/main/java/vn/titv/spring/securityjpa/security/Endpoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PJ/43/securityjpa/securityjpa/src/main/java/vn/titv/spring/securityjpa/security/JwtFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PJ/43/securityjpa/securityjpa/src/main/java/vn/titv/spring/securityjpa/security/JwtResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PJ/43/securityjpa/securityjpa/src/main/java/vn/titv/spring/securityjpa/security/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../binh1231/binh123/src/main/java/com/example/binh123/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../binh1231/binh123/src/main/java/com/example/binh123/MyUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../binh1231/binh123/src/main/java/com/example/binh123/RestAPI/Notifi2Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../binh1231/binh123/src/main/java/com/example/binh123/RestAPI/NotifiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../binh1231/binh123/src/main/java/com/example/binh123/Service/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../binh1231/binh123/src/main/java/com/example/binh123/Service/MesInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../binh1231/binh123/src/main/java/com/example/binh123/Service/SmsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../binh1231/binh123/src/main/java/com/example/binh123/Service/ZaloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../binh1231/binh123/src/main/java/com/example/binh123/TestMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/demo/src/main/java/com/example/demo/Dao/SinhVienDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/demo/src/main/java/com/example/demo/Dao/SinhVienDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/demo/src/main/java/com/example/demo/comon/Myconfi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/demo/src/main/java/com/example/demo/entity/SinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo111/demo/src/main/java/com/example/demo/RestAPI/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo111/demo/src/main/java/com/example/demo/entity/ErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo111/demo/src/main/java/com/example/demo/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo111/demo/src/main/java/com/example/demo/exception/GlobalExceptionhandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo111/demo/src/main/java/com/example/demo/exception/SinhVienException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo111/demo/src/main/java/com/example/demo/helloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo111/untitled1/src/AudiobookDelivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo111/untitled1/src/BookDelivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo111/untitled1/src/OfflineDelivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo111/untitled1/src/OnlineDelivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo11111/demo/src/main/java/com/example/demo/Controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo11111/demo/src/main/java/com/example/demo/Dao/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo11111/demo/src/main/java/com/example/demo/Dao/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo11111/demo/src/main/java/com/example/demo/Entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo11111/demo/src/main/java/com/example/demo/Entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo11111/demo/src/main/java/com/example/demo/Entity/dtos/RegiterUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo11111/demo/src/main/java/com/example/demo/Secutity/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo11111/demo/src/main/java/com/example/demo/Service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo11111/demo/src/main/java/com/example/demo/Service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BracketChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackADT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap2/src/Infix2Postfix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap2/src/selectionsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Dao/CategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Dao/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Dao/QuyenDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Entity/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Entity/Quyen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Entity/dtos/TaiKhoanWrapper/KichHoat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Entity/dtos/TaiKhoanWrapper/Singup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Entity/dtos/UserWrapper/UserWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/RestAPI/CategoryRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/RestAPI/ProductRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/RestAPI/TaiKhoanRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/RestAPI/UserRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Security/Endpoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Security/JwtFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Security/JwtResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Security/JwtService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Security/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Security/dtos/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Service/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Service/EmailSerivce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Service/EmailSeriveImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Service/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Service/TaikhoanService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Service/UserSerivceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../management_cafe/src/main/java/com/example/management_cafe/Util/ThongBao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/MaxSubarrayBruteForce1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../studentAPI/studentAPI/src/main/java/com/example/studentAPI/DAO/StudentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../studentAPI/studentAPI/src/main/java/com/example/studentAPI/DAO/StudentDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../studentAPI/studentAPI/src/main/java/com/example/studentAPI/DAO/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../studentAPI/studentAPI/src/main/java/com/example/studentAPI/Entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../studentAPI/studentAPI/src/main/java/com/example/studentAPI/RestAPI/StudentRestAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../studentAPI/studentAPI/src/main/java/com/example/studentAPI/Security/UserConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../studentAPI/studentAPI/src/main/java/com/example/studentAPI/Service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../studentAPI/studentAPI/src/main/java/com/example/studentAPI/Service/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../studentAPI/studentAPI/src/main/java/com/example/studentAPI/handle/Myhandler.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Levanbinh123"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Levanbinh123/Tai_lieu_hoc_spring_boot.git",
+    "accountId": "27075702-f31c-4b46-b19c-51eca2965d93"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2yfqhBDaXEOdUt7S4DeDejUrNfR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c89d330b-3be8-4e45-902e-347e2c09d2f2" name="Changes" comment="" />
+      <created>1750236092857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750236092857</updated>
+      <workItem from="1750236094358" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

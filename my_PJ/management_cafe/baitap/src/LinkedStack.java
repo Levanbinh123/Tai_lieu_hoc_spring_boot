@@ -1,4 +1,1 @@
-package PACKAGE_NAME;
-
-public class LinkedStack {
-}
+import java.util.Stack;
